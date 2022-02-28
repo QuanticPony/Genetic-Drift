@@ -1,7 +1,10 @@
 # Genetic-Drift
 A simple genetic drift simulation with Python. From [Wikipedia](https://en.wikipedia.org/wiki/Genetic_drift): 
+
 Genetic drift (allelic drift or the Sewall Wright effect) is the change in the frequency of an existing gene variant (allele) in a population due to random sampling of organisms. The alleles in the offspring are a sample of those in the parents, and chance has a role in determining whether a given individual survives and reproduces. 
+
 A population's allele frequency is the fraction of the copies of one gene that share a particular form.
+
 Genetic drift may cause gene variants to disappear completely and thereby reduce genetic variation. It can also cause initially rare alleles to become much more frequent and even fixed. 
 
 
